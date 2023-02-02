@@ -1,0 +1,9 @@
+.direnv/
+.env
+private/
+
+*.tfstate*
+*.tfvar
+*.tfplan
+__pycache__/
+.terraform/

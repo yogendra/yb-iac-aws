@@ -1,0 +1,7 @@
+*.tfstate*
+*.tfplan
+*.tfvar
+*.log
+*.tgz
+*.tar.gz
+./private/
